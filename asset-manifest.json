@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poornaderedla/my-portfolio/static/css/main.fbe9c22e.css",
+    "main.js": "/poornaderedla/my-portfolio/static/js/main.f948979e.js",
+    "static/js/453.acca0757.chunk.js": "/poornaderedla/my-portfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/poornaderedla/my-portfolio/index.html",
+    "main.fbe9c22e.css.map": "/poornaderedla/my-portfolio/static/css/main.fbe9c22e.css.map",
+    "main.f948979e.js.map": "/poornaderedla/my-portfolio/static/js/main.f948979e.js.map",
+    "453.acca0757.chunk.js.map": "/poornaderedla/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe9c22e.css",
+    "static/js/main.f948979e.js"
+  ]
+}
